@@ -1,2 +1,3 @@
 # DSC-IoT-Track-4-Resources
-# COMING SOON
+CHECK THE REPOSITORY GIVEN IN LINK BELOW:
+https://github.com/dscmbm/awesome-raspberry-pi
